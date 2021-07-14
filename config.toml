@@ -16,7 +16,7 @@ paginate = 6
   # Enable float footnotes.
   # Default to true
   enableFootnotes = true
-  siteName = "Blog"
+  siteName = "Raylau's Blog"
   siteDesc = "No description yet."
   author = "Raylau"
 
@@ -26,19 +26,19 @@ paginate = 6
 
   # Show your social information with icon on index bio with `_index.md` content.
   [params.socialOptions]
-    dev-to = ""
+  #  dev-to = ""
     email = "raylau@hotlook.com"
-    facebook = ""
-    github = ""
-    instagram = ""
-    linkedin = ""
-    medium = ""
-    stack-overflow = ""
-    steam = ""
-    telegram = ""
-    twitter = ""
-    twitch = ""
-    whatsapp = ""
+  #  facebook = ""
+    github = "https://github.com/yjddd"
+  #  instagram = ""
+  #  linkedin = ""
+  #  medium = ""
+  #  stack-overflow = ""
+  #  steam = ""
+  #  telegram = ""
+  #  twitter = ""
+  #  twitch = ""
+  #  whatsapp = ""
   
   # Comments settigns
   [params.comments]
@@ -49,6 +49,9 @@ paginate = 6
 [[menu.header]]
   name = "Articles"
   url = "/articles/"
+[[menu.header]]
+  name = "Gallery"
+  url = "https://foto.raylau.xyz"
 [[menu.footer]]
     name = "RSS"
     url = "/index.xml"
