@@ -3,7 +3,7 @@ title: "应该提高对于数据安全的重视"
 date: "2021-07-11"
 author: "Raylau"
 categories:
-- gossip
+- life
 ---
 
 
